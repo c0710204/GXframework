@@ -1,0 +1,20 @@
+2013-01-27 21:40:52|514467|sql-QUERY|select  * from `ne`where`ne`.`type`='ne'||
+2013-01-27 21:42:41|369641|sql-QUERY|select  * from `ne`where`ne`.`type`='ne'||
+2013-01-27 21:44:26|441529|sql-QUERY|select  * from `ne`where`ne`.`type`='ne'||
+2013-01-27 21:44:26|475721|SQL-ERROR|SQLite query Fail ,Code=HY000,string=SQLSTATE[HY000]: General error: 1 no such table: ne||
+2013-01-27 21:44:52|805417|sql-QUERY|select  * from `ne`where`ne`.`type`='ne'||
+2013-01-27 21:44:52|806396|SQL-ERROR|SQLite query Fail ,Code=HY000,string=SQLSTATE[HY000]: General error: 1 no such table: ne||
+2013-01-27 21:52:19|84544|sql-QUERY|select  * from `ne`where`ne`.`type`='ne'||
+2013-01-27 21:53:41|936198|sql-QUERY|select  * from `ne`where`ne`.`type`='ne'||
+2013-01-27 21:54:23|553677|sql-QUERY|select  * from `ne`where`ne`.`type`='ne'||
+2013-01-27 21:54:25|959599|sql-QUERY|select  * from `ne`where`ne`.`type`='ne'||
+2013-01-27 21:54:31|409617|sql-QUERY|select  * from `ne`where`ne`.`type`='ne'||
+2013-01-27 21:54:33|860425|sql-QUERY|select  * from `ne`where`ne`.`type`='ne'||
+2013-01-27 21:54:56|721050|sql-QUERY|select  * from `ne`where`ne`.`type`='ne'||
+2013-01-27 21:55:46|370833|sql-QUERY|select  * from `ne`where`ne`.`type`='ne'||
+2013-01-27 21:56:08|542704|sql-QUERY|select  * from `ne`where`ne`.`type`='ne'limit 0,3||
+2013-01-27 21:56:08|548636|sql-QUERY|select  * from `ne`where`ne`.`type`='en'limit 0,3||
+2013-01-27 21:56:42|37470|sql-QUERY|select  * from `ne`where`ne`.`type`='ne'limit 0,3||
+2013-01-27 21:56:42|39733|sql-QUERY|select  * from `ne`where`ne`.`type`='en'limit 0,3||
+2013-01-27 21:56:59|75865|sql-QUERY|select  * from `ne`where`ne`.`type`='ne'limit 0,3||
+2013-01-27 21:56:59|79337|sql-QUERY|select  * from `ne`where`ne`.`type`='en'limit 0,3||
